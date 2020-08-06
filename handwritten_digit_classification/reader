@@ -1,0 +1,2 @@
+This is a python program for handrwiiten digit classification.It gives a accuracy of around 95 percent as it uses the quadratic cost function.
+The data is MNIST data which is present in the given folder
